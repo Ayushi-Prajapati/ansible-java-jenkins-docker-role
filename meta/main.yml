@@ -1,8 +1,6 @@
 galaxy_info:
   author: Ayushi
   description: Ansible role to install Java, Jenkins, and Docker on Ubuntu machines.
-  company: YourCompany
-  license: MIT
   min_ansible_version: '2.9'
 
   platforms:
